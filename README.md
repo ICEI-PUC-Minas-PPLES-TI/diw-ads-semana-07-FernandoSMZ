@@ -12,15 +12,17 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Fernando Silva Menezes
+- Matricula:889468
+- Proposta de projeto escolhida: Catálogo de Livros
+- Breve descrição sobre seu projeto: Um site simples que exibe um catálogo de livros com cards dinâmicos na página inicial. Cada card mostra o título, autor e capa do livro. Ao clicar em um card, o usuário é levado para uma página de detalhes com mais informações sobre o livro (como sinopse, ano de publicação e número de páginas).
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  ![image](https://github.com/user-attachments/assets/ca5c824b-98f0-4040-8004-bcf934a587e1)
+ >>
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![image](https://github.com/user-attachments/assets/8fed5ad5-87fb-4bfe-a730-0b6dd3afd435)
+I >>
